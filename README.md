@@ -5,8 +5,8 @@
 <br>
 
 ## 수강 대상
-본 강의는 인공지능 관련하여 관심 있는 일반인 50명을 대상으로 온라인교육으로 진행됩니다.   
-<font color='red'>본 강의는 파이썬에 대한 기초 지식이 없는 수강생에게는 다소 어려울 수 있습니다. 이 점 양해 부탁드립니다.</font>
+본 강의는 인공지능 관련하여 관심 있는 일반인 50명을 대상으로 온라인교육으로 진행됩니다.    
+> 본 강의는 파이썬에 대한 기초 지식이 없는 수강생에게는 다소 어려울 수 있습니다. 이 점 양해 부탁드립니다.
 
 <br>
 
@@ -15,7 +15,7 @@
 
 <br>
 
-<div align='center'><div style="font:normal normal 400 12px/normal dotum, sans-serif; width:640px; height:392px; color:#333; position:relative"><div style="height: 360px;"><a href="https://map.kakao.com/?urlX=523421.0&amp;urlY=1084809.0&amp;name=%EA%B2%BD%EA%B8%B0%20%EC%84%B1%EB%82%A8%EC%8B%9C%20%EB%B6%84%EB%8B%B9%EA%B5%AC%20%ED%8C%90%EA%B5%90%EB%A1%9C289%EB%B2%88%EA%B8%B8%2020&amp;map_type=TYPE_MAP&amp;from=roughmap" target="_blank"><img class="map" src="http://t1.daumcdn.net/roughmap/imgmap/41031ba4eb5bfcfbfed6787cbad70521c9e47b492e4f704de694cc8060ff0416" width="638px" height="358px" style="border:1px solid #ccc;"></a></div><div style="overflow: hidden; padding: 7px 11px; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 0px 0px 2px 2px; background-color: rgb(249, 249, 249);"><a href="https://map.kakao.com" target="_blank" style="float: left;"><img src="//t1.daumcdn.net/localimg/localimages/07/2018/pc/common/logo_kakaomap.png" width="72" height="16" alt="카카오맵" style="display:block;width:72px;height:16px"></a><div style="float: right; position: relative; top: 1px; font-size: 11px;"><a target="_blank" href="https://map.kakao.com/?from=roughmap&amp;eName=%EA%B2%BD%EA%B8%B0%20%EC%84%B1%EB%82%A8%EC%8B%9C%20%EB%B6%84%EB%8B%B9%EA%B5%AC%20%ED%8C%90%EA%B5%90%EB%A1%9C289%EB%B2%88%EA%B8%B8%2020&amp;eX=523421.0&amp;eY=1084809.0" style="float:left;height:15px;padding-top:1px;line-height:15px;color:#000;text-decoration: none;">길찾기</a></div></div></div></div>
+<div align='center'><div style="font:normal normal 400 12px/normal dotum, sans-serif; width:640px; height:392px; color:#333; position:relative"><div style="height: 360px;"><a href="https://map.kakao.com/?urlX=523421.0&amp;urlY=1084809.0&amp;name=%EA%B2%BD%EA%B8%B0%20%EC%84%B1%EB%82%A8%EC%8B%9C%20%EB%B6%84%EB%8B%B9%EA%B5%AC%20%ED%8C%90%EA%B5%90%EB%A1%9C289%EB%B2%88%EA%B8%B8%2020&amp;map_type=TYPE_MAP&amp;from=roughmap" target="_blank"><img class="map" src="http://t1.daumcdn.net/roughmap/imgmap/41031ba4eb5bfcfbfed6787cbad70521c9e47b492e4f704de694cc8060ff0416" width="638px" height="358px" style="border:1px solid #ccc;"></a></div></div></div>
 
 <br>
 
@@ -27,6 +27,7 @@
 
 <br>
 <div align='center'>
+<!-- https://naereen.github.io/badges/ -->
 <img src="https://img.shields.io/badge/python-v3.7-blue">
 <img src="https://img.shields.io/badge/NumPy-1.20.2-blue">
 <img src="https://img.shields.io/badge/Pandas-1.2.3-green">
@@ -42,10 +43,10 @@
 - 머신러닝 학습 파이프라인(Machine Learning Pipeline)  
 
 실습 내용
-- 파이썬 기초 복습
-- 데이터 분석 라이브러리(1) - NumPy [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](])
-- 데이터 분석 라이브러리(2) - Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](])
-- 데이터 분석 라이브러리(3) - Scikit-learn [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](])
+- 파이썬 기초 복습 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](]) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://nbviewer.jupyter.org/github/minsuk-sung/2021-NIA-K-ICT-AI-Lecture/blob/main/day1/%281%EC%9D%BC%EC%B0%A8%29%202021%EB%85%84%20NIA%208%EC%9B%94%20%EB%B6%84%EC%84%9D%EC%9D%B8%ED%94%84%EB%9D%BC%EA%B5%90%EC%9C%A1%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20-%20%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C%20%281%29%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EC%B4%88%20%EB%B3%B5%EC%8A%B5.ipynbb)
+- 데이터 분석 라이브러리(1) - NumPy [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](]) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://nbviewer.jupyter.org/github/minsuk-sung/2021-NIA-K-ICT-AI-Lecture/blob/main/day1/%281%EC%9D%BC%EC%B0%A8%29%202021%EB%85%84%20NIA%208%EC%9B%94%20%EB%B6%84%EC%84%9D%EC%9D%B8%ED%94%84%EB%9D%BC%EA%B5%90%EC%9C%A1%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20-%20%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C%20%282%29%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.ipynb)
+- 데이터 분석 라이브러리(2) - Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](]) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://nbviewer.jupyter.org/github/minsuk-sung/2021-NIA-K-ICT-AI-Lecture/blob/main/day1/%281%EC%9D%BC%EC%B0%A8%29%202021%EB%85%84%20NIA%208%EC%9B%94%20%EB%B6%84%EC%84%9D%EC%9D%B8%ED%94%84%EB%9D%BC%EA%B5%90%EC%9C%A1%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20-%20%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C%20%282%29%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.ipynb)
+- 데이터 분석 라이브러리(3) - Scikit-learn [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](]) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://nbviewer.jupyter.org/github/minsuk-sung/2021-NIA-K-ICT-AI-Lecture/blob/main/day1/%281%EC%9D%BC%EC%B0%A8%29%202021%EB%85%84%20NIA%208%EC%9B%94%20%EB%B6%84%EC%84%9D%EC%9D%B8%ED%94%84%EB%9D%BC%EA%B5%90%EC%9C%A1%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20-%20%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C%20%282%29%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.ipynb)
 
 <br>
 
@@ -59,11 +60,10 @@
 - 서포트 벡터 머신(Support Vector Machine, SVM)
 
 실습 내용
-- Boston 주택 가격 데이터를 통해서 알아보는 머신러닝 예제(1) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](])
-- Iris 데이터를 통해서 알아보는 머신러닝 예제(2) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](])
-- KOSPI 지수 데이터를 통해서 알아보는 머신러닝 예제(3) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](])
-- 와인 품질 데이터를 통해서 알아보는 머신러닝 예제(4) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](])
-
+- Boston 주택 가격 데이터를 통해서 알아보는 머신러닝 예제(1) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](]) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://nbviewer.jupyter.org/github/minsuk-sung/2021-NIA-K-ICT-AI-Lecture/blob/main/day2/%282%EC%9D%BC%EC%B0%A8%29%202021%EB%85%84%20NIA%208%EC%9B%94%20%EB%B6%84%EC%84%9D%EC%9D%B8%ED%94%84%EB%9D%BC%EA%B5%90%EC%9C%A1%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20-%20%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C%20%281%29%20%EB%B3%B4%EC%8A%A4%ED%84%B4%20%EC%A3%BC%ED%83%9D%20%EA%B0%80%EA%B2%A9%20%EB%8D%B0%EC%9D%B4%ED%84%B0.ipynb)
+- Iris 데이터를 통해서 알아보는 머신러닝 예제(2) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](]) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://nbviewer.jupyter.org/github/minsuk-sung/2021-NIA-K-ICT-AI-Lecture/blob/main/day2/%282%EC%9D%BC%EC%B0%A8%29%202021%EB%85%84%20NIA%208%EC%9B%94%20%EB%B6%84%EC%84%9D%EC%9D%B8%ED%94%84%EB%9D%BC%EA%B5%90%EC%9C%A1%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20-%20%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C%20%282%29%20%EC%95%84%EC%9D%B4%EB%A6%AC%EC%8A%A4%20%EB%B6%93%EA%BD%83%20%EB%8D%B0%EC%9D%B4%ED%84%B0.ipynb)
+- 와인 품질 데이터를 통해서 알아보는 머신러닝 예제(3) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](]) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/minsuk-sung/2021-NIA-K-ICT-AI-Lecture/blob/main/day2/(2%EC%9D%BC%EC%B0%A8)%202021%EB%85%84%20NIA%208%EC%9B%94%20%EB%B6%84%EC%84%9D%EC%9D%B8%ED%94%84%EB%9D%BC%EA%B5%90%EC%9C%A1%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20-%20%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C%20(4)%20%ED%95%9C%EA%B5%AD%20%EC%BD%94%EC%8A%A4%ED%94%BC%20%EC%A7%80%EC%88%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0.ipynb)
+- KOSPI 지수 데이터를 통해서 알아보는 머신러닝 예제(4) [[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](]) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://nbviewer.jupyter.org/github/minsuk-sung/2021-NIA-K-ICT-AI-Lecture/blob/main/day2/%282%EC%9D%BC%EC%B0%A8%29%202021%EB%85%84%20NIA%208%EC%9B%94%20%EB%B6%84%EC%84%9D%EC%9D%B8%ED%94%84%EB%9D%BC%EA%B5%90%EC%9C%A1%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20-%20%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C%20%283%29%20%EC%99%80%EC%9D%B8%20%ED%92%88%EC%A7%88%20%EB%8D%B0%EC%9D%B4%ED%84%B0.ipynb)
 <br>
 
 ### 3일차 강의(8/19)
@@ -74,10 +74,10 @@
 - 인공신경망(Artificial Neural Network)
 
 실습 내용
-- 당뇨병 데이터를 통해서 알아보는 머신러닝 예제(5) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](])
-- 유방암 데이터를 통해서 알아보는 머신러닝 예제(6) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](])
-- 타이타닉 생존 데이터를 통해서 알아보는 머신러닝 예제(7) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](])
-- MNIST 데이터를 통해서 알아보는 머신러닝 예제(8) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](])
+- 당뇨병 데이터를 통해서 알아보는 머신러닝 예제(5) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](]) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://nbviewer.jupyter.org/github/minsuk-sung/2021-NIA-K-ICT-AI-Lecture/blob/main/day3/%283%EC%9D%BC%EC%B0%A8%29%202021%EB%85%84%20NIA%208%EC%9B%94%20%EB%B6%84%EC%84%9D%EC%9D%B8%ED%94%84%EB%9D%BC%EA%B5%90%EC%9C%A1%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20-%20%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C%20%281%29%20%EB%8B%B9%EB%87%A8%EB%B3%91%20%EB%8D%B0%EC%9D%B4%ED%84%B0.ipynb)
+- 유방암 데이터를 통해서 알아보는 머신러닝 예제(6) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](]) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://nbviewer.jupyter.org/github/minsuk-sung/2021-NIA-K-ICT-AI-Lecture/blob/main/day3/%283%EC%9D%BC%EC%B0%A8%29%202021%EB%85%84%20NIA%208%EC%9B%94%20%EB%B6%84%EC%84%9D%EC%9D%B8%ED%94%84%EB%9D%BC%EA%B5%90%EC%9C%A1%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20-%20%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C%20%282%29%20%EC%9C%A0%EB%B0%A9%EC%95%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0.ipynb)
+- 타이타닉 생존 데이터를 통해서 알아보는 머신러닝 예제(7) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](]) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://nbviewer.jupyter.org/github/minsuk-sung/2021-NIA-K-ICT-AI-Lecture/blob/main/day3/%283%EC%9D%BC%EC%B0%A8%29%202021%EB%85%84%20NIA%208%EC%9B%94%20%EB%B6%84%EC%84%9D%EC%9D%B8%ED%94%84%EB%9D%BC%EA%B5%90%EC%9C%A1%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20-%20%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C%20%283%29%20%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89%20%EB%8D%B0%EC%9D%B4%ED%84%B0.ipynb)
+- MNIST 데이터를 통해서 알아보는 머신러닝 예제(8) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](]) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://nbviewer.jupyter.org/github/minsuk-sung/2021-NIA-K-ICT-AI-Lecture/blob/main/day3/%283%EC%9D%BC%EC%B0%A8%29%202021%EB%85%84%20NIA%208%EC%9B%94%20%EB%B6%84%EC%84%9D%EC%9D%B8%ED%94%84%EB%9D%BC%EA%B5%90%EC%9C%A1%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20-%20%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C%20%284%29%20MNIST%20%EC%88%AB%EC%9E%90%20%EB%8D%B0%EC%9D%B4%ED%84%B0.ipynb)
 
 <br>
 

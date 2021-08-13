@@ -20,14 +20,14 @@
 <br>
 
 ## 3. 강의 세부 안내
-본 강의는 파이썬에 대한 기초 지식과 머신러닝에 대한 전반적인 이론과 마지막으로 이론에 대한 실습으로 운영됩니다. 본 강의 자료 및 실습 자료를 한꺼번에 [다운](https://github.com/minsuk-sung/2021-NIA-K-ICT-AI-Lecture/archive/refs/heads/main.zip)받기 위해선 아래 그림과 같이 [Download ZIP](https://github.com/minsuk-sung/2021-NIA-K-ICT-AI-Lecture/archive/refs/heads/main.zip)을 눌러주시길 바랍니다.
+본 강의는 파이썬에 대한 기초 지식과 머신러닝에 대한 전반적인 이론과 마지막으로 이론에 대한 실습으로 운영됩니다. 본 강의 자료 및 실습 자료를 [한꺼번에 다운](https://github.com/minsuk-sung/2021-NIA-K-ICT-AI-Lecture/archive/refs/heads/main.zip)받기 위해선 아래 그림과 같이 [Download ZIP](https://github.com/minsuk-sung/2021-NIA-K-ICT-AI-Lecture/archive/refs/heads/main.zip)을 눌러주시길 바랍니다.
 
 ![](https://i.imgur.com/LamEaXl.png)
 
 <br>
 
 ### 실습환경
-아래와 같은 라이브러리 버전을 맞춰주셔야 원할한 실습이 진행됩니다.
+본 강의의 실습시간을 위해서 아래와 같은 라이브러리 버전을 맞춰주셔야 원할한 실습이 진행됩니다. 기본적으로 Google Colab 환경에서 실습을 진행해주는걸 권장합니다.
 
 <br>
 <div align='center'>
@@ -53,6 +53,7 @@ Anaconda를 이용하여 가상환경을 생성할 경우 아래와 같은 명�
 <br>
 
 ### 1일차 강의 - 8/17(화)
+1일차에서는 머신러닝에 대한 간단한 개요와 기초 이론 그리고 학습 파이프라인에 대해서 다룹니다. 실습시간에는 파이썬 기초를 복습하고 NumPy, Pandas, 그리고 Scikit-learn과 같은 데이터 분석을 위한 라이브러리들을 가볍게 다루는 시간을 갖습니다. 
 
 #### 1일차 이론 내용
 - 머신러닝 개요(Introduction to Machine Learning)
@@ -68,6 +69,7 @@ Anaconda를 이용하여 가상환경을 생성할 경우 아래와 같은 명�
 <br>
 
 ### 2일차 강의 - 8/18(수)
+2일차에서는 머신러닝에서의 회귀와 분류와 관련된 내용을 강의합니다. 지도학습에서의 대표적인 모델 중 하나인 k-최근접 이웃 알고리즘와 나이브 베이즈 그리고 서포트 벡터 머신에 대해서 배웁니다. 실습시간에는 Boston 주택 가격 데이터, Iris 데이터, 와인 품질 데이터 그리고 KOSPI 지수 데이터를 이용해서 이론 시간에 학습한 모델을 활용하는 시간을 가져봅니다.
 
 #### 2일차 이론 내용
 - 회귀(Regression)
@@ -80,10 +82,11 @@ Anaconda를 이용하여 가상환경을 생성할 경우 아래와 같은 명�
 - Boston 주택 가격 데이터를 통해서 알아보는 머신러닝 예제(1) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](]) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://nbviewer.jupyter.org/github/minsuk-sung/2021-NIA-K-ICT-AI-Lecture/blob/main/day2/%282%EC%9D%BC%EC%B0%A8%29%202021%EB%85%84%20NIA%208%EC%9B%94%20%EB%B6%84%EC%84%9D%EC%9D%B8%ED%94%84%EB%9D%BC%EA%B5%90%EC%9C%A1%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20-%20%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C%20%281%29%20%EB%B3%B4%EC%8A%A4%ED%84%B4%20%EC%A3%BC%ED%83%9D%20%EA%B0%80%EA%B2%A9%20%EB%8D%B0%EC%9D%B4%ED%84%B0.ipynb)
 - Iris 데이터를 통해서 알아보는 머신러닝 예제(2) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](]) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://nbviewer.jupyter.org/github/minsuk-sung/2021-NIA-K-ICT-AI-Lecture/blob/main/day2/%282%EC%9D%BC%EC%B0%A8%29%202021%EB%85%84%20NIA%208%EC%9B%94%20%EB%B6%84%EC%84%9D%EC%9D%B8%ED%94%84%EB%9D%BC%EA%B5%90%EC%9C%A1%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20-%20%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C%20%282%29%20%EC%95%84%EC%9D%B4%EB%A6%AC%EC%8A%A4%20%EB%B6%93%EA%BD%83%20%EB%8D%B0%EC%9D%B4%ED%84%B0.ipynb)
 - 와인 품질 데이터를 통해서 알아보는 머신러닝 예제(3) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](]) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/minsuk-sung/2021-NIA-K-ICT-AI-Lecture/blob/main/day2/(2%EC%9D%BC%EC%B0%A8)%202021%EB%85%84%20NIA%208%EC%9B%94%20%EB%B6%84%EC%84%9D%EC%9D%B8%ED%94%84%EB%9D%BC%EA%B5%90%EC%9C%A1%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20-%20%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C%20(4)%20%ED%95%9C%EA%B5%AD%20%EC%BD%94%EC%8A%A4%ED%94%BC%20%EC%A7%80%EC%88%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0.ipynb)
-- KOSPI 지수 데이터를 통해서 알아보는 머신러닝 예제(4) [[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](]) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://nbviewer.jupyter.org/github/minsuk-sung/2021-NIA-K-ICT-AI-Lecture/blob/main/day2/%282%EC%9D%BC%EC%B0%A8%29%202021%EB%85%84%20NIA%208%EC%9B%94%20%EB%B6%84%EC%84%9D%EC%9D%B8%ED%94%84%EB%9D%BC%EA%B5%90%EC%9C%A1%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20-%20%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C%20%283%29%20%EC%99%80%EC%9D%B8%20%ED%92%88%EC%A7%88%20%EB%8D%B0%EC%9D%B4%ED%84%B0.ipynb)
+- KOSPI 지수 데이터를 통해서 알아보는 머신러닝 예제(4) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](]) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://nbviewer.jupyter.org/github/minsuk-sung/2021-NIA-K-ICT-AI-Lecture/blob/main/day2/%282%EC%9D%BC%EC%B0%A8%29%202021%EB%85%84%20NIA%208%EC%9B%94%20%EB%B6%84%EC%84%9D%EC%9D%B8%ED%94%84%EB%9D%BC%EA%B5%90%EC%9C%A1%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20-%20%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C%20%283%29%20%EC%99%80%EC%9D%B8%20%ED%92%88%EC%A7%88%20%EB%8D%B0%EC%9D%B4%ED%84%B0.ipynb)
 <br>
 
 ### 3일차 강의 - 8/19(목)
+3일차에서는 지도학습에서 가장 중요한 의사결정나무와 앙상블 방법에 대해서 알아봅니다. 마지막으로 비선형적인 문제를 해결하기 위해서 인공신경망에 대해서 다뤄봅니다. 실습시간에는 당뇨병 데이터나 유방암 데이터와 같은 간단한 데이터와 타이타닉 생존 데이터나 MNIST 숫자 데이터를 통해서 앞서 배운 이론을 적용하는 시간을 가져봅니다.
 
 #### 3일차 이론 내용
 - 의사결정나무(Decision Tree)
